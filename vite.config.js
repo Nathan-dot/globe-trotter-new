@@ -1,6 +1,6 @@
 import vitePluginString from 'vite-plugin-string'
 
 export default {
-  plugins: [vitePluginString()],
-  base: '/globe-trotter/'
+  base: '/globe-trotter2/', 
+  plugins: [vitePluginString()]
 }
